@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/music.gitbud.io/static/css/main.8f6d6b9f.css",
+    "main.js": "/music.gitbud.io/static/js/main.7522de81.js",
+    "index.html": "/music.gitbud.io/index.html",
+    "main.8f6d6b9f.css.map": "/music.gitbud.io/static/css/main.8f6d6b9f.css.map",
+    "main.7522de81.js.map": "/music.gitbud.io/static/js/main.7522de81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f6d6b9f.css",
+    "static/js/main.7522de81.js"
+  ]
+}
